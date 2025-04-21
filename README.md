@@ -7,7 +7,6 @@ Realice fork de este repositorio. Invite al docente fcardonaEAFIT (fcardona@eafi
 Parcial.
 
  * I, III -> Algoritmo FIFO
- * II, IV -> Algoritmo LRU
 
 Abra el archivo `sim_algo_reem_mem.py` implemente la función `procesar`. Esta recibe tres argumentos:
 
@@ -54,4 +53,5 @@ Req: 0xf1 Direccion Fisica: 0x1ff Acción: Segmention Fault
 
 ## Autor.
 
- * Nombre completo:
+ * Nombre completo: KATHERIN NATHALIA ALLIN MURILLO
+ * Algoritmo FIFO
